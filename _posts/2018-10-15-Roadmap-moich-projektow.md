@@ -24,7 +24,7 @@ by trochę rozwinąć tą nieciekawą okolicę.
 
 ## ???VK
 Mam w głowie ideę portu gry z 2006 roku która jest olana przez developerów kazdego typu - od jej własnych programistów, wydawnictwa (podpowiedź - Gameforge)
-az po samych twórców Wine którzy nie naprawiają bugów które występują na obu mainstreamowych systemach jakimi są Linux i macOS.
+az po samych twórców Wine którzy nie naprawiają bugów które występują na obu mainstreamowych systemach jakimi są GNU/Linux i macOS.
 Niestety reportowanie nic nie dało. Sama gra jest napisana totalnie do dupy i nie rozumiem ile litrów wódki musiało się przelać by zrobić coś,
 w której główną zasadą jest wpieprzanie coraz większej ilości gotówki. Coś jak kupowanie iPhone, tylko w wersji dla nerdów i gimnazjalistów z rentą babci.
 Jezeli cokolwiek by powstało - myślę, ze pierwsza połowa 2020 była by ok na pokazanie wyników, o ile nic by się nie zmieniło i nie zamknęli by serwerów.
