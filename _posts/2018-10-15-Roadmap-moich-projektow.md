@@ -35,7 +35,7 @@ Dokładnie to maszyna na AMD APU A4-4020 i Raspberry Pi. Wystarczyło by do mine
 Czemu nie VPS? Teoretycznie wiem, ze moze wyjść taniej. Z drugiej strony to ma być hobby, a hobby w zasadzie swojej nie jest darmowe, jak juz musi być tanie.
 Smuteg największy jest jak na tych serwerach nikt nie gra, ale u mnie raspi i tak stoi cały czas włączone, a zamiast maszyny na APU mógłbym kupić kolejny MiniPC
 typu płytka od asusa lub kolejną wersję Pi, i to by starczyło. Aktualnie największym problemem jest dostępność szybkiego internetu - mieszkam na zadupiu więc
-dostęp do światłowodu próbóją mi zrobić od dwóch lat, ale na forum dostawcy piszą "jest w planach". No ok, jakoś wytrzymam.
+dostęp do światłowodu próbują mi zrobić od dwóch lat, ale na forum dostawcy piszą "jest w planach". No ok, jakoś wytrzymam.
 
 ## Rozwój postaci PokemonGO
 Jako iz juz tyle gram w Poki i pomimo ze gram z "doskoku" czyli bez rajdów, w większości single player przez 97% czasu, planuję wbić 40 poziom do 3 rocznicy
